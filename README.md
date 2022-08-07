@@ -1,6 +1,15 @@
-# Summary
+# What I do
 
-Sr. front end software engineer. Experienced with modern JavaScript (ES2015/ES6+), TypeScript, HTML5, CSS3, Sass (.scss), Tailwindcss, React JS, Jest, React Testing Library, Redux, Node JS, npm, yarn, agile development process, version control using Git (command line), and TFS. Experienced with various CMS platforms.
+I am an engineer and front end web developer.
+
+I like to build things and I make my living by helping teams build cool applications on the web.
+
+
+# Tools I use
+
+Modern JavaScript (TypeScript), HTML, CSS, and *many* related technologies.
+
+
 
 <!--
 ### Hi there 👋
