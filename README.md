@@ -13,7 +13,7 @@ Modern JavaScript (TypeScript), HTML, CSS, and *many* related technologies.
 
 # Important keywords
 
-JavaScript, TypeScript, HTML, HTML5, CSS, CSS3, ES6, ES2015, Node, npm, yarn, Express, Webpack, git, Sass, scss, Agile, Scrum, WordPress, PHP
+JavaScript, TypeScript, HTML, HTML5, CSS, CSS3, ES6, ES2015, Node, npm, yarn, Express, Webpack, git, Sass, scss, Agile, Scrum, React
 
 
 
